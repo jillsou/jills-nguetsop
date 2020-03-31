@@ -1,0 +1,59 @@
+span
+{
+  padding: 60px;
+}
+
+#searchbar
+{
+  border-left: 200px;
+  margin-top: 20px;
+  position: absolute;
+  top: 330px;
+  left: 600px;
+  cursor: pointer;
+}
+
+.gmail
+{
+  float: right;
+  display: flex;
+  cursor: pointer;
+}
+
+.image
+{
+  float: right;
+  display: flex;
+  cursor: pointer;
+}
+
+#logo
+{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 96px;
+  cursor: pointer;
+}
+
+#micro
+{
+  margin-left: 450px;
+  margin-top: 43px;
+  cursor: pointer;
+}
+
+#loupe
+{
+  margin-left: -400px;
+  margin-top: -30px;
+  cursor: pointer;
+}
+
+em
+{
+  margin-top: 1cm; 
+}
+
+
+
